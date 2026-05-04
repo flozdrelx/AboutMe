@@ -11,6 +11,9 @@
 * Fast delivery
 * Custom solutions based on your needs
 
+### You can find some of my scripts:
+1. https://github.com/flozdrelx/simple-password-checker
+
 #### Got an idea? DM me and lets build it
 
 Discord: hex_.gg
