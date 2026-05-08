@@ -9,20 +9,21 @@
 ### What you get:
 * Clean and readable code
 * Fast delivery
-* Custom solutions based on your needs
+* Custom solutions tailored to your needs
 
-### You can find some of my scripts:
-1. https://github.com/flozdrelx/simple-password-checker
+### Some of my projects:
+* https://github.com/flozdrelx/simple-password-checker
+* https://github.com/flozdrelx/discord-bot
 
-#### Got an idea? DM me and lets build it
+#### Got an idea? DM me and let's build it.
 
-Discord: hex_.gg
+Discord: `hex_.gg`
 
 #### Payments via PayPal
 
 ---
 
-# Join my discord server:
+# Join my Discord server
 
 68747470733A2F2F64726976652E676F6F676C652E636F6D2F64726976652F666F6C646572732F3135415A796E3178346F53703838365F50646F50476570556D5856586373334C70
 
