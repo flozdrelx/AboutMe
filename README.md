@@ -15,6 +15,8 @@
 * https://github.com/flozdrelx/simple-password-checker
 * https://github.com/flozdrelx/discord-bot
 * https://github.com/flozdrelx/flask-system
+* https://github.com/flozdrelx/hexium
+* https://github.com/flozdrelx/simple-chat
 
 #### Got an idea? DM me and let's build it.
 
