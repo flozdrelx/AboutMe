@@ -1,6 +1,6 @@
 # Python Developer | Custom Automation & Discord Bots
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ythtqbDzKH) [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@hexgg.alt) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/hex_gg) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hexx_gg) [![guns.lol](https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logoColor=white)](https://guns.lol/hex_.gg)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ythtqbDzKH) [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@hexgg.alt) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/hex_gg) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@hexx_gg) [![guns.lol](https://img.shields.io/badge/guns.lol-301934)](https://guns.lol/hex_.gg)
 
 ### I can help you build:
 * Automation scripts (tasks, workflows, scraping)
