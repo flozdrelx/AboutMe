@@ -1,5 +1,7 @@
 # Python Developer | Custom Automation & Discord Bots
 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ythtqbDzKH)
+
 ### I can help you build:
 * Automation scripts (tasks, workflows, scraping)
 * File management tools
