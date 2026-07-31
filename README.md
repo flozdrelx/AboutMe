@@ -1,6 +1,6 @@
 # Python Developer | Custom Automation & Discord Bots
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ythtqbDzKH)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ythtqbDzKH) [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@hexgg.alt) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/hex_gg)
 
 ### I can help you build:
 * Automation scripts (tasks, workflows, scraping)
